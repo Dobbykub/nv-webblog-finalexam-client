@@ -11,7 +11,7 @@
             ดูข้อมูลผู้ใช้
           </button>
           <button v-on:click="navigateTo('/speaker/edit/' + speaker.id)">
-            แกไขข้อมูล
+            แก้ไขข้อมูล
           </button>
           <button v-on:click="deleteSpeaker(speaker)">ลบข้อมูล</button>
         </p>

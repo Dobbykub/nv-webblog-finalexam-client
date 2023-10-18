@@ -12,9 +12,6 @@
     
     
     <script>
-    // import 'bootstrap/dist/css/bootstrap.min.css'
-    // import 'jquery/src/jquery.js'
-    // import 'bootstrap/dist/js/bootstrap.min.js'
     export default {
       name: 'app',
       logout() {
@@ -34,7 +31,6 @@
       margin-top: -60px;
       padding: 0;
       overflow: hidden;
-       /* เปลี่ยนสี navbar  */
       background-color: #251e1e;
     }
     
@@ -42,7 +38,6 @@
     
     ul.topnav li a {
       display: block;
-      /* / เปลี่ยนสี font */ 
       color: white;
       text-align: center;
       padding: 14px 16px;
